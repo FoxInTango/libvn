@@ -1,2 +1,2 @@
 # libvn
-Virtual Netwrok for C++.
+Virtual Netwrok for C++ Applications.
